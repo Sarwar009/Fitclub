@@ -1,11 +1,11 @@
 import './App.css';
-import Reasons from './componets/Reasons/Reasons';
-import Testimonials from './componets/Testimonials/Testimonials';
-import { Footer } from './componets/Footer/Footer';
-import Hero from './componets/Hero/Hero'
-import { Join } from './componets/Join/Join';
-import Plans from './componets/Plans/Plans';
-import Programs from './componets/Programs/Programs';
+import Reasons from './components/Reasons/Reasons';
+import Testimonials from './components/Testimonials/Testimonials';
+import { Footer } from './components/Footer/Footer';
+import Hero from './components/Hero/Hero'
+import { Join } from './components/Join/Join';
+import Plans from './components/Plans/Plans';
+import Programs from './components/Programs/Programs';
 
 function App() {
   return (
